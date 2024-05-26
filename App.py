@@ -9,15 +9,16 @@ text = """
 
 ✨ Funcionalidades que Simplificam sua Vida:
 
+* Escaneamento por meio de foto: Tire uma foto de sua NFe e o app se encarrega de fazer o levantamento dos dados presentes na mesma. 📷
 * Upload de Imagens de NF-e: Carregue imagens de NF-e no formato JPEG com facilidade. 🖼️
 * Extração de Dados Automática: Nosso modelo de OCR (Optical Character Recognition) baseado em IA extrai informações essenciais da NF-e, como:
-* Chave de Acesso 🔑
-* Número da Nota Fiscal 🔢
-* Data de Emissão 📅
-* Valor Total 💰
-* Nome do Emitente 🏢
-* CNPJ do Emitente 📑
-* E muito mais! 🚀
+    * Chave de Acesso 🔑
+    * Número da Nota Fiscal 🔢
+    * Data de Emissão 📅
+    * Valor Total 💰
+    * Nome do Emitente 🏢
+    * CNPJ do Emitente 📑
+    * E muito mais! 🚀
 
 Visualização Clara e Organizada: Os dados extraídos são apresentados de forma estruturada e fácil de entender em uma interface amigável. 📊
 
@@ -25,7 +26,7 @@ Visualização Clara e Organizada: Os dados extraídos são apresentados de form
 
 * Python: O coração do projeto, responsável por toda a lógica do aplicativo, manipulação de dados e integração com bibliotecas de IA. 🐍
 * Streamlit: Framework web intuitivo que dá vida à interface gráfica interativa do aplicativo. ✨
-* Google Generative AI: Biblioteca de Inteligência Artificial da Google (LLM)
+* Google Generative AI: Biblioteca de Inteligência Artificial da Google (LLM) responsável pela "mágica" da extração dos dados.
 
 🚀 Próximos Passos para um Futuro Brilhante:
 
